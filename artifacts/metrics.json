@@ -1,0 +1,11 @@
+{
+  "dataset": "Synthetic applicant repayment-risk attributes",
+  "seed": 42,
+  "mode": "credit",
+  "metric": "PR-AUC",
+  "models": {
+    "Logistic Regression": 0.4316,
+    "Random Forest": 0.4308
+  },
+  "note": "Synthetic result; no production validation"
+}
